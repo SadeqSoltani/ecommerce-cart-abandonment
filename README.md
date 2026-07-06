@@ -32,22 +32,29 @@ Engaged buyers browse **2.4x more categories** (3.03 vs 1.25) and stay **4x long
 
 **1. Executive Summary: headline KPIs and the view to cart to purchase funnel**
 
-![alt text](01_executive_summary.png)
+<img width="1313" height="731" alt="01_executive_summary" src="https://github.com/user-attachments/assets/7b29cca6-378d-48ab-b2cd-84e17454526d" />
+
+
 
 
 **2. Funnel: cart-to-purchase rate by day of week and hour of day**
 
-![alt text](02_funnel.png)
+<img width="1309" height="735" alt="02_funnel" src="https://github.com/user-attachments/assets/369030c2-d26f-4f78-bd20-b57b6c7a7b72" />
+
+
 
 
 **3. Availability: the 10x conversion gap and the ~40% of views hitting out-of-stock items**
 
-![alt text](03_availability.png)
+<img width="1307" height="735" alt="03_availability" src="https://github.com/user-attachments/assets/b3d92339-c72e-423b-8bfe-8c41a0cb916e" />
+
+
 
 
 **4. Customer Journey: buyers vs non-buyers on category breadth and session duration**
 
-![alt text](04_customer_journey.png)
+<img width="1304" height="731" alt="04_customer_journey" src="https://github.com/user-attachments/assets/8b36bcad-e40f-4718-9408-ce0ed8b03627" />
+
 
 ---
 
@@ -74,7 +81,8 @@ The model roughly doubles ranking power over chance using behavior alone. XGBoos
 
 **What drives abandonment (SHAP)**
 
-![alt text](shap_importance.png)
+<img width="1081" height="704" alt="shap_importance" src="https://github.com/user-attachments/assets/7de1054a-ab4b-4470-aea6-1157c72206dc" />
+
 
 The behavioral signature splits cleanly in two:
 
