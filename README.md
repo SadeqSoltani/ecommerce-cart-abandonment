@@ -139,7 +139,7 @@ The [RetailRocket dataset](https://www.kaggle.com/datasets/retailrocket/ecommerc
 ## Repository structure
 
 ```
-Retailrocket/
+E-Commerce Cart Abandonment Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore  
