@@ -215,9 +215,6 @@ jupyter notebook notebooks/abandonment_model.ipynb
 ```
 The notebook reads the database credentials from `.env`, builds the time-based split, trains both models, evaluates them, and exports the SHAP figure.
 
-**5. Open the dashboard**
-
-Open `power bi/Power bi.pbix` in Power BI Desktop. It connects to the PostgreSQL tables in Import mode, so the file is self-contained once refreshed against your database.
 
 
 
