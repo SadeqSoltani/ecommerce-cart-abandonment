@@ -134,12 +134,8 @@ The [RetailRocket dataset](https://www.kaggle.com/datasets/retailrocket/ecommerc
 Retailrocket/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── data/                             
-│   ├── events.csv
-│   ├── category_tree.csv
-│   ├── item_properties_part1.csv
-│   └── item_properties_part2.csv
+├── .gitignore  
+│   
 ├── sql/                              
 │   ├── 00_create_raw_tables.sql
 │   ├── 01_load_and_trim.sql
@@ -159,13 +155,12 @@ Retailrocket/
 │   ├── xgb_abandonment.pkl
 │   └── scaler.pkl
 └── power bi/
-    ├── Power bi.pbix                 
-    └── screenshots/
-        ├── 01_executive_summary.png
-        ├── 02_funnel.png
-        ├── 03_availability.png
-        ├── 04_customer_journey.png
-        └── shap_importance.png
+    │              
+    ├── 01_executive_summary.png
+    ├── 02_funnel.png
+    ├── 03_availability.png
+    ├── 04_customer_journey.png
+    └── shap_importance.png
 ```
 
 > **Note on large files:** the raw `data/` CSVs and the `.pbix` are excluded from the repo via `.gitignore` because they exceed GitHub's 100MB file limit. Download the data from Kaggle (see below) and open the `.pbix` locally, or use [Git LFS](https://git-lfs.com/) if you want to version them.
